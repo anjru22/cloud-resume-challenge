@@ -1,3 +1,3 @@
 # cloud-resume-challenge
 
-test
+test ci/cd
