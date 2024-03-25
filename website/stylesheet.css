@@ -10137,3 +10137,15 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.image-container {
+  position: absolute;
+  top: 4150px;
+  right: 80px;
+}
+ @media (max-width: 768px) {
+  .image-container {
+      position: static;
+      margin-top: 20px;
+  }
+}
