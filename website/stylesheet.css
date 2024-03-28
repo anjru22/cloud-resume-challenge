@@ -10104,7 +10104,7 @@ p.lead {
 }
 
 .dev-icons {
-  font-size: 10rem;
+  font-size: 8rem;
 }
 
 .dev-icons .list-inline-item :hover {
@@ -10118,7 +10118,7 @@ section.resume-section {
   padding-right: 1rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
-  max-width: 75rem;
+  max-width: 90rem;
 }
 section.resume-section .resume-section-content {
   width: 100%;
